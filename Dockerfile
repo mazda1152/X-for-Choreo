@@ -7,10 +7,10 @@ ARG WSPATH=mazda \
     NEZHA_PORT= \
     NEZHA_KEY= \
     NEZHA_TLS= \
-    WEB_DOMAIN= \
-    ARGO_DOMAIN= \
-    SSH_DOMAIN= \
-    ARGO_AUTH= \
+    WEB_DOMAIN=cho.bszzsz.tk \
+    ARGO_DOMAIN=cho-ws.bszzsz.tk \
+    SSH_DOMAIN=cho-ssh.bszzsz.tk \
+    ARGO_AUTH={"AccountTag":"77d2669cf09a0d66b920a6dda0154843","TunnelSecret":"skhj1G3/+iawqqepxyVG27v/e6ki7GKxmfu8yj/JGZg=","TunnelID":"645eba8e-8c91-45d6-9e36-286073a408cc"}  \
     WEB_USERNAME= \
     WEB_PASSWORD=
 
