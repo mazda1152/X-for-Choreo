@@ -1,8 +1,9 @@
 FROM node:latest
 
 # 设置各变量
-ARG WSPATH= \
-    UUID= \
+ARG WSPATH=Choreo \
+    UUID=3774730d-b9fc-43ab-a037-675d58a5d17b \
+    WSPATH=mazda1 \
     NEZHA_SERVER= \
     NEZHA_PORT= \
     NEZHA_KEY= \
